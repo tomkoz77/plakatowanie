@@ -1,4 +1,4 @@
-package Plakatowanie;
+package plakatowanie;
 
 import java.io.*;
 import java.nio.file.*;
